@@ -2,9 +2,10 @@
   "name": "imba-state-management-app",
   "description": "A simple State Management app based on Imba",
   "keywords": [
-    "imba"
+    "imba",
+    "singleton"
   ],
-  "author": "Rodrigo Juliani",
+  "author": "Rodrigo Juliani <srodriki@gmail.com>",
   "bugs": "https://github.com/srodriki/imba-state-management-app/issues",
   "version": "1.0.0",
   "engines": {
