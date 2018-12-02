@@ -1,11 +1,11 @@
 {
-  "name": "hello-world-imba",
-  "description": "Hello World for Imba",
+  "name": "imba-state-management-app",
+  "description": "A simple State Management app based on Imba",
   "keywords": [
     "imba"
   ],
-  "author": "Sindre Aarsaether",
-  "bugs": "https://github.com/somebee/hello-world-imba/issues",
+  "author": "Rodrigo Juliani",
+  "bugs": "https://github.com/srodriki/imba-state-management-app/issues",
   "version": "1.0.0",
   "engines": {
     "node": ">=6.0.0"
@@ -18,10 +18,10 @@
   },
   "files": [],
   "directories": {},
-  "homepage": "http://imba.io",
+  "homepage": "https://github.com/srodriki/imba-state-management-app",
   "repository": {
     "type": "git",
-    "url": "git://github.com/somebee/hello-world-imba.git"
+    "url": "git@github.com:srodriki/imba-state-management-app.git"
   },
   "license": "MIT",
   "dependencies": {
